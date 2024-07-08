@@ -12,7 +12,7 @@ def exibir_nome_do_programa():
       """)
 
 def exibir_opcoes():
-    print('1. Cadastrar restaurnate')
+    print('1. Cadastrar restaurante')
     print('2. Listar restaurante')
     print('3. Alternar estado do restaurante')
     print('4. Sair\n')
